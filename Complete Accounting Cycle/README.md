@@ -1,4 +1,4 @@
-# 📊 Accounting Cycle – Complete Financial Statements
+# 📊 Complete Financial Statements
 
 Welcome to my **Accounting Cycle Project** repository!  
 This project demonstrates a full accounting cycle — from **Journal Entries** to a complete set of **Financial Statements** — built using real transactions for a business called **XYZ**.
@@ -52,7 +52,5 @@ This project covers the entire bookkeeping and reporting process:
 📘 Accounting and finance students learning the full accounting cycle  
 🎓 Beginners who want a hands-on example from journal entry to financial statements  
 🧠 Anyone looking to understand how raw transactions become structured reports  
-
-**Where every debit has a credit — and every number tells a story.**
 
 ## ⭐ Found this helpful? Give the repo a star and share it with others!
