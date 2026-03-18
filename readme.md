@@ -1,4 +1,4 @@
-# 💼 Accounting & Finance Projects
+# 💼Finance Projects
 
 Welcome to my **Accounting & Finance Projects** repository!  
 This space brings together practical, real-world finance solutions — combining core accounting principles with modern tools like **Excel**, **Power BI**, and **Python** to analyze, automate, and visualize financial data effectively.
