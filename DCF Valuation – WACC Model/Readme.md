@@ -112,17 +112,6 @@ Explore my other repositories for more finance, analytics, and data projects:
 | [🔬 Advance Analytics](https://github.com/yahya-kq/Advance-Analytics) | Advanced analytical techniques and projects |
 
 
-##  Author
-
-**Yahya Qureshi**
-
-| | |
-|---|---|
-| 📧 Email | [yahyaqureshi012@gmail.com](mailto:yahyaqureshi012@gmail.com) |
-| 🌐 Portfolio | [yahya-kq.odoo.com](https://yahya-kq.odoo.com/) |
-| 🐙 GitHub | [github.com/yahya-kq](https://github.com/yahya-kq) |
-| 💼 LinkedIn | [linkedin.com/in/yahya-kq](https://www.linkedin.com/in/yahya-kq) |
-
 
 
 ⭐ Found this helpful? Give the repo a star and share it with others!
